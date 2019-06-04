@@ -26,5 +26,10 @@
         <members>EmailManagerTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>RejectDoubleBooking</members>
+        <members>SendConfirmationEmail</members>
+        <name>ApexTrigger</name>
+    </types>
     <version>45.0</version>
 </Package>
