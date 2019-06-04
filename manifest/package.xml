@@ -6,5 +6,20 @@
         <members>Session_Speaker__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>Speaker__c</members>
+        <members>Session__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Conference</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Session_Speaker__c-Session Speaker Layout</members>
+        <members>Session__c-Session Layout</members>
+        <members>Speaker__c-Speaker Layout</members>
+        <name>Layout</name>
+    </types>
     <version>45.0</version>
 </Package>
