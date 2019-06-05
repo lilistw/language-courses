@@ -42,5 +42,9 @@
         <members>Speaker_Record_Page</members>
         <name>FlexiPage</name>
     </types>
+    <types>
+        <members>Conference_App_User</members>
+        <name>PermissionSet</name>
+    </types>
     <version>45.0</version>
 </Package>
