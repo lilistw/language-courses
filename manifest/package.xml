@@ -24,6 +24,8 @@
     <types>
         <members>EmailManager</members>
         <members>EmailManagerTest</members>
+        <members>AttachmentController</members>
+        <members>AttachmentControllerTest</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -33,7 +35,12 @@
     </types>
     <types>
         <members>SpeakerForm</members>
+        <members>ImageUploader</members>
         <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Speaker_Record_Page</members>
+        <name>FlexiPage</name>
     </types>
     <version>45.0</version>
 </Package>
