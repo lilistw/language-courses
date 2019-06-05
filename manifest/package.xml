@@ -31,5 +31,9 @@
         <members>SendConfirmationEmail</members>
         <name>ApexTrigger</name>
     </types>
+    <types>
+        <members>SpeakerForm</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
     <version>45.0</version>
 </Package>
