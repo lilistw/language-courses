@@ -26,6 +26,7 @@
         <members>EmailManagerTest</members>
         <members>AttachmentController</members>
         <members>AttachmentControllerTest</members>
+        <members>TestRejectDoubleBooking</members>
         <name>ApexClass</name>
     </types>
     <types>
